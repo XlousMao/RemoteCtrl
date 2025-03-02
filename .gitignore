@@ -1,3 +1,6 @@
 /RemoteCtrl/.vs
 /RemoteCtrl/RemoteClient/RemoteClient.vcxproj.user
 /RemoteCtrl/RemoteCtrl/RemoteCtrl.vcxproj.user
+/RemoteCtrl/RemoteCtrl/x64/Debug
+/RemoteCtrl/RemoteClient/x64/Debug
+/RemoteCtrl/x64/Debug
